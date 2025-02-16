@@ -1,5 +1,4 @@
-# Network Intrusion Detection
-
+# Guarding Against Cyber Threats: A Scalable Solution for Intrusion Detection in Imbalanced Network Traffic
 This project focuses on detecting network intrusions using machine learning techniques. It employs both supervised and unsupervised learning approaches to identify malicious activities in network traffic.
 
 ## Dataset
